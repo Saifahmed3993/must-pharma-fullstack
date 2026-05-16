@@ -1,0 +1,81 @@
+services:
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: mustpharma-sqlserver
+    environment:
+      ACCEPT_EULA: "Y"
+      MSSQL_SA_PASSWORD: "YourStrongPassword123!"
+    ports:
+      - "1433:1433"
+    volumes:
+      - sqlserverdata:/var/opt/mssql
+    networks:
+      - mustpharma-network
+    healthcheck:
+      test: /opt/mssql-tools18/bin/sqlcmd -S localhost -U sa -P "YourStrongPassword123!" -Q "SELECT 1" -C || exit 1
+      interval: 10s
+      timeout: 5s
+      retries: 10
+      start_period: 30s
+    restart: unless-stopped
+
+  redis:
+    image: redis:7-alpine
+    container_name: mustpharma-redis
+    ports:
+      - "6379:6379"
+    networks:
+      - mustpharma-network
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    restart: unless-stopped
+
+  api:
+    image: mustpharma-api
+    container_name: mustpharma-api
+    build:
+      context: .
+      dockerfile: Talabat.API/Dockerfile
+    ports:
+      - "5010:80"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Docker
+      - ASPNETCORE_URLS=http://+:80
+      - JWT__Key=StrONGKAutHENTICATIONKEy_must_be_at_least_32_chars_long
+    depends_on:
+      sqlserver:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    volumes:
+      - ./Talabat.API/wwwroot/images:/app/wwwroot/images
+    restart: unless-stopped
+    networks:
+      - mustpharma-network
+
+  frontend:
+    image: mustpharma-frontend
+    container_name: mustpharma-frontend
+    build:
+      context: ./pharmacy-client
+      dockerfile: Dockerfile
+      args:
+        - VITE_API_URL=http://localhost:5010/api
+    ports:
+      - "5173:80"
+    depends_on:
+      - api
+    restart: unless-stopped
+    networks:
+      - mustpharma-network
+
+networks:
+  mustpharma-network:
+    driver: bridge
+
+volumes:
+  sqlserverdata:
+  api-images:

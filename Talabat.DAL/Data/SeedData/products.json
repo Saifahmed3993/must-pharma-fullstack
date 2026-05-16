@@ -1,0 +1,450 @@
+[
+  {
+    "Name": "Gold Standard 100% Whey",
+    "Description": "Premium quality Gold Standard 100% Whey for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 1850.0,
+    "PictureUrl": "images/products/whey_protein.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "NitroTech Whey Gold",
+    "Description": "Premium quality NitroTech Whey Gold for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 1750.0,
+    "PictureUrl": "images/products/whey_protein.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "ISO100 Hydrolyzed",
+    "Description": "Premium quality ISO100 Hydrolyzed for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 2200.0,
+    "PictureUrl": "images/products/whey_protein.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Syntha-6 Edge",
+    "Description": "Premium quality Syntha-6 Edge for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 1600.0,
+    "PictureUrl": "images/products/whey_protein.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Micronized Creatine Powder",
+    "Description": "Premium quality Micronized Creatine Powder for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 650.0,
+    "PictureUrl": "images/products/creatine.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Cell-Tech Creatine",
+    "Description": "Premium quality Cell-Tech Creatine for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 850.0,
+    "PictureUrl": "images/products/creatine.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "COR-Performance Creatine",
+    "Description": "Premium quality COR-Performance Creatine for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 600.0,
+    "PictureUrl": "images/products/creatine.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Serious Mass",
+    "Description": "Premium quality Serious Mass for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 2100.0,
+    "PictureUrl": "images/products/mass_gainer.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Mass-Tech Extreme 2000",
+    "Description": "Premium quality Mass-Tech Extreme 2000 for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 2300.0,
+    "PictureUrl": "images/products/mass_gainer.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Super Mass Gainer",
+    "Description": "Premium quality Super Mass Gainer for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 1950.0,
+    "PictureUrl": "images/products/mass_gainer.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Gold Standard Pre-Workout",
+    "Description": "Premium quality Gold Standard Pre-Workout for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 950.0,
+    "PictureUrl": "images/products/pre_workout.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "C4 Original",
+    "Description": "Premium quality C4 Original for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 850.0,
+    "PictureUrl": "images/products/pre_workout.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "N.O.-Xplode",
+    "Description": "Premium quality N.O.-Xplode for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 900.0,
+    "PictureUrl": "images/products/pre_workout.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Amino Energy",
+    "Description": "Premium quality Amino Energy for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 750.0,
+    "PictureUrl": "images/products/bcaa.png",
+    "ProductTypeId": 5,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "XTEND Original BCAA",
+    "Description": "Premium quality XTEND Original BCAA for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 800.0,
+    "PictureUrl": "images/products/bcaa.png",
+    "ProductTypeId": 5,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Platinum Multivitamin",
+    "Description": "Premium quality Platinum Multivitamin for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 550.0,
+    "PictureUrl": "images/products/vitamins.png",
+    "ProductTypeId": 6,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Opti-Men",
+    "Description": "Premium quality Opti-Men for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 680.0,
+    "PictureUrl": "images/products/vitamins.png",
+    "ProductTypeId": 6,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Kevin Levrone Gold Creatine",
+    "Description": "Premium quality Kevin Levrone Gold Creatine for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 700.0,
+    "PictureUrl": "images/products/creatine.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "Gold Standard 100% Casein",
+    "Description": "Premium quality Gold Standard 100% Casein for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 1950.0,
+    "PictureUrl": "images/products/whey_protein.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Platinum HydroWhey",
+    "Description": "Premium quality Platinum HydroWhey for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 2400.0,
+    "PictureUrl": "images/products/whey_protein.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Pro Gainer",
+    "Description": "Premium quality Pro Gainer for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 2050.0,
+    "PictureUrl": "images/products/mass_gainer.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Opti-Women",
+    "Description": "Premium quality Opti-Women for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 650.0,
+    "PictureUrl": "images/products/vitamins.png",
+    "ProductTypeId": 6,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Fish Oil Softgels",
+    "Description": "Premium quality Fish Oil Softgels for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 450.0,
+    "PictureUrl": "images/products/vitamins.png",
+    "ProductTypeId": 6,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Glutamine Powder",
+    "Description": "Premium quality Glutamine Powder for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 500.0,
+    "PictureUrl": "images/products/bcaa.png",
+    "ProductTypeId": 5,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "ZMA",
+    "Description": "Premium quality ZMA for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 400.0,
+    "PictureUrl": "images/products/vitamins.png",
+    "ProductTypeId": 6,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Gold Standard Plant Protein",
+    "Description": "Premium quality Gold Standard Plant Protein for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 1650.0,
+    "PictureUrl": "images/products/whey_protein.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Gold Standard Isolate",
+    "Description": "Premium quality Gold Standard Isolate for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 2150.0,
+    "PictureUrl": "images/products/whey_protein.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Phase8 Protein",
+    "Description": "Premium quality Phase8 Protein for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 1600.0,
+    "PictureUrl": "images/products/whey_protein.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Platinum 100% Creatine",
+    "Description": "Premium quality Platinum 100% Creatine for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 550.0,
+    "PictureUrl": "images/products/creatine.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "VaporX5 Next Gen",
+    "Description": "Premium quality VaporX5 Next Gen for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 880.0,
+    "PictureUrl": "images/products/pre_workout.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Amino Build Next Gen",
+    "Description": "Premium quality Amino Build Next Gen for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 780.0,
+    "PictureUrl": "images/products/bcaa.png",
+    "ProductTypeId": 5,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Clear Muscle",
+    "Description": "Premium quality Clear Muscle for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 1100.0,
+    "PictureUrl": "images/products/bcaa.png",
+    "ProductTypeId": 5,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Hydroxycut Hardcore Elite",
+    "Description": "Premium quality Hydroxycut Hardcore Elite for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 900.0,
+    "PictureUrl": "images/products/vitamins.png",
+    "ProductTypeId": 6,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Nitro-Tech Ripped",
+    "Description": "Premium quality Nitro-Tech Ripped for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 1850.0,
+    "PictureUrl": "images/products/whey_protein.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Elite 100% Whey",
+    "Description": "Premium quality Elite 100% Whey for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 1500.0,
+    "PictureUrl": "images/products/whey_protein.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Elite Casein",
+    "Description": "Premium quality Elite Casein for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 1650.0,
+    "PictureUrl": "images/products/whey_protein.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "All9 Amino",
+    "Description": "Premium quality All9 Amino for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 850.0,
+    "PictureUrl": "images/products/bcaa.png",
+    "ProductTypeId": 5,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "PreW.O.",
+    "Description": "Premium quality PreW.O. for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 900.0,
+    "PictureUrl": "images/products/pre_workout.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Creatine Micronized",
+    "Description": "Premium quality Creatine Micronized for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 620.0,
+    "PictureUrl": "images/products/creatine.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Z-Force",
+    "Description": "Premium quality Z-Force for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 450.0,
+    "PictureUrl": "images/products/vitamins.png",
+    "ProductTypeId": 6,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "ISO100 Clear",
+    "Description": "Premium quality ISO100 Clear for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 2300.0,
+    "PictureUrl": "images/products/whey_protein.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Syntha-6 Isolate",
+    "Description": "Premium quality Syntha-6 Isolate for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 1900.0,
+    "PictureUrl": "images/products/whey_protein.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "True Mass 1200",
+    "Description": "Premium quality True Mass 1200 for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 2200.0,
+    "PictureUrl": "images/products/mass_gainer.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Amino X",
+    "Description": "Premium quality Amino X for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 700.0,
+    "PictureUrl": "images/products/bcaa.png",
+    "ProductTypeId": 5,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Cellmass 2.0",
+    "Description": "Premium quality Cellmass 2.0 for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 950.0,
+    "PictureUrl": "images/products/creatine.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Endorush",
+    "Description": "Premium quality Endorush for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 850.0,
+    "PictureUrl": "images/products/pre_workout.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "C4 Ripped",
+    "Description": "Premium quality C4 Ripped for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 950.0,
+    "PictureUrl": "images/products/pre_workout.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "C4 Ultimate",
+    "Description": "Premium quality C4 Ultimate for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 1150.0,
+    "PictureUrl": "images/products/pre_workout.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Alpha Amino",
+    "Description": "Premium quality Alpha Amino for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 820.0,
+    "PictureUrl": "images/products/bcaa.png",
+    "ProductTypeId": 5,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "COR-Performance Whey",
+    "Description": "Premium quality COR-Performance Whey for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 1550.0,
+    "PictureUrl": "images/products/whey_protein.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "SuperHD",
+    "Description": "Premium quality SuperHD for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 900.0,
+    "PictureUrl": "images/products/vitamins.png",
+    "ProductTypeId": 6,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "LevroISOWhey",
+    "Description": "Premium quality LevroISOWhey for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 1950.0,
+    "PictureUrl": "images/products/whey_protein.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "Anabolic Mass",
+    "Description": "Premium quality Anabolic Mass for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 2150.0,
+    "PictureUrl": "images/products/mass_gainer.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "Shaaboom Pump",
+    "Description": "Premium quality Shaaboom Pump for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 920.0,
+    "PictureUrl": "images/products/pre_workout.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "LevroBCAA",
+    "Description": "Premium quality LevroBCAA for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 750.0,
+    "PictureUrl": "images/products/bcaa.png",
+    "ProductTypeId": 5,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "LevroArmour",
+    "Description": "Premium quality LevroArmour for enhanced performance and recovery. Highly recommended for athletes and bodybuilders.",
+    "Price": 600.0,
+    "PictureUrl": "images/products/vitamins.png",
+    "ProductTypeId": 6,
+    "ProductBrandId": 6
+  }
+]
