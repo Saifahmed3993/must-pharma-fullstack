@@ -1,4 +1,5 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { SpeedInsights } from "@vercel/speed-insights/react";
 import AddProductForm from "./components/AddProductForm";
 import AddCategoryForm from "./components/AddCategoryForm";
 import AddBundleForm from "./components/AddBundleForm";
@@ -103,6 +104,7 @@ function App() {
           </BasketProvider>
         </AccountProvider>
       </AppErrorBoundary>
+      <SpeedInsights />
     </BrowserRouter>
   );
 }
